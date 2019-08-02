@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_margin">8dp</dimen>
+    
+    <dimen name="notification_text_size">14.0sp</dimen>
+    <dimen name="dialog_left_text_size">15.0sp</dimen>
+    <dimen name="dialog_right_text_size">14.0sp</dimen>
+    <dimen name="category_button_text_size">14.0sp</dimen>
+    <dimen name="category_button_count_text_size">12.0sp</dimen>
+    <dimen name="category_legend_text_size">10.0sp</dimen>
+    <dimen name="information_text_size">12.0sp</dimen>
+    <dimen name="operation_bar_text_size">12.0sp</dimen>
+    <dimen name="btn_bottom_text_size">17.0sp</dimen>
+    <dimen name="appearance_text_size">16.0sp</dimen>
+    <dimen name="titlebar_text_size">16.0sp</dimen>
+    <dimen name="no_file_text_size">18.0sp</dimen>
+    <dimen name="enable_sd_card_text_size">14.0sp</dimen>
+    <dimen name="dropdown_text_size">16.0sp</dimen>
+    <dimen name="list_primary_text_size">16.0sp</dimen>
+    <dimen name="list_secondary_text_size">12.0sp</dimen>
+    <dimen name="dialog_thumbnail_width">39.0dip</dimen>
+    <dimen name="list_thumbnail_width">44.0dip</dimen>
+    <dimen name="list_item_height">56.0dip</dimen>
+    <dimen name="grid_thumbnail_width">55.0dip</dimen>
+    <dimen name="grid_item_height">82.0dip</dimen>
+    <dimen name="category_bar_height">23.0dip</dimen>
+    <dimen name="grid_column_width">105.0dip</dimen>
+    <dimen name="dropdown_item_height">54.0dip</dimen>
+    <dimen name="permission_check_width">60.0dip</dimen>
+    <dimen name="path_pane_max_width">300.0dip</dimen>
+    <dimen name="text_input_min_width">160.0dip</dimen>
+    <dimen name="dialog_min_width">270.0dip</dimen>
+    <dimen name="progress_bar_height">18.0dip</dimen>
+    <dimen name="titlebar_height">40.0dip</dimen>
+    <dimen name="size_m5">-5.0dip</dimen>
+    <dimen name="size_2">2.0dip</dimen>
+    <dimen name="size_3">3.0dip</dimen>
+    <dimen name="size_5">5.0dip</dimen>
+    <dimen name="size_10">10.0dip</dimen>
+    <dimen name="size_15">15.0dip</dimen>
+    <dimen name="size_20">20.0dip</dimen>
+    <dimen name="size_25">25.0dip</dimen>
+    <dimen name="size_30">30.0dip</dimen>
+    <dimen name="size_35">35.0dip</dimen>
+    <dimen name="size_45">45.0dip</dimen>
+    <dimen name="size_75">75.0dip</dimen>
+</resources>

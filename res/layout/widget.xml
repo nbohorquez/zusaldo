@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="@dimen/widget_margin" 
+    android:background="@android:color/white" >
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        <!-- 
+        <Button android:id="@+id/widget_sms"
+            style="@style/BotonInicio"
+            android:text="@string/desconocido"
+            android:drawableTop="@drawable/content_email" 
+            android:clickable="False" />
+        <Button android:id="@+id/widget_megas"
+            style="@style/BotonInicio"
+            android:text="@string/desconocido"
+            android:drawableTop="@drawable/location_web_site" 
+            android:clickable="False" />
+        <Button android:id="@+id/widget_llamadas1"
+            style="@style/BotonInicio"
+            android:text="@string/desconocido"
+            android:drawableTop="@drawable/device_access_call" 
+            android:clickable="False" />
+        <Button android:id="@+id/widget_llamadas2"
+            style="@style/BotonInicio"
+            android:text="@string/desconocido"
+            android:drawableTop="@drawable/device_access_ring_volume" 
+            android:clickable="False" />
+         -->
+    </LinearLayout>
+</FrameLayout>

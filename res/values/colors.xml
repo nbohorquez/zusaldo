@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="category_back_color">#ffececec</color>
+    <color name="highlight_color">#ffff9200</color>
+    <color name="appearance_text_color">#cc000000</color>
+    <color name="OperationButton_text">#ff444444</color>
+    <color name="text_information">#ff222222</color>
+    <color name="shadow_color">#90ffffff</color>
+    <color name="hint_foreground">#ff808080</color>
+    <color name="background">#fff7f7f7</color>
+    <color name="textColorHighlight">#ffff9200</color>
+    <color name="textColorLink">#ff5c5cff</color>
+    <color name="text_primary">#cc000000</color>
+    <color name="text_primary_inverse">#ff000000</color>
+    <color name="text_secondary">#ff888888</color>
+    <color name="text_secondary_inverse">#ffffffff</color>
+    <color name="text_tertiary">#cc000000</color>
+    <color name="text_tertiary_inverse">#ff000000</color>
+    <color name="border">#ffc9c9c9</color>
+    <color name="gradiant_from">#ffced3ce</color>
+    <color name="gradiant_to">#fff4f4f4</color>
+    <color name="button_text">#cc000000</color>
+    <color name="shadow_text">#90ffffff</color>
+    <color name="text_count">#fff9f9f9</color>
+    <color name="text_count_bg">#80222222</color>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CategoryButtonContainerStyle" 
+    android:padding="16dp" >
+    <TextView android:id="@+id/saldo_mensaje"
+        android:textIsSelectable="true"
+        style="@style/CategoryButtonTextStyle" />
+</LinearLayout>

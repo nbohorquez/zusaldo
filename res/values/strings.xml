@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZuSaldo</string>
+    <string name="saldo_sms">SMS</string>
+    <string name="saldo_mb">Megas</string>
+    <string name="saldo_mms">MMS</string>
+    <string name="saldo_llamadas1">Misma op.</string>
+    <string name="saldo_llamadas2">Otras op.</string>
+    <string name="saldo_llamadas3">Fijos</string>
+    <string name="saldo_saldo">Saldo</string>
+    <string name="saldo_renta">Renta</string>
+    <string name="saldo_vencimiento">Vence</string>
+    <string name="menu_actualizar">Actualizar</string>
+    <string name="menu_configuracion">Configuración</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="tab_resumen">RESUMEN</string>
+    <string name="tab_mensajes">MENSAJES</string>
+    <string name="tab_graficas">GRÁFICAS</string>
+    <string name="actualizar_saldo">Saldo actualizado</string>
+    <string name="texto_pantalla_llamada">Actualizando&#8230;</string>
+    <string name="texto_acerca_de">
+<![CDATA[
+<h1>ZuSaldo</h1>
+Versión 1.1.0<br>
+Copyright &copy 2013 Zuliaworks<br>
+<a href="www.zuliaworks.com">www.zuliaworks.com</a>
+<br><br>
+Maracaibo, Venezuela
+]]>
+    </string>
+    <string name="texto_legal">
+<![CDATA[
+NO HAY GARANTÍA PARA EL PROGRAMA EN LA MEDIDA PERMITIDA POR LA LEY APLICABLE.
+EXCEPTO CUANDO SE INDIQUE LO CONTRARIO POR ESCRITO, LOS TITULARES DE DERECHOS 
+DE AUTOR Y/O PARTES PROPORCIONAN EL PROGRAMA \"TAL CUAL\", SIN GARANTÍA DE NINGÚN 
+TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO, PERO NO LIMITADA A LAS 
+GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y APTITUD PARA UN DETERMINADO FIN. 
+EL RIESGO EN CUANTO A LA CALIDAD Y RENDIMIENTO DEL PROGRAMA ES SUYO. SI 
+EL PROGRAMA ES DEFECTUOSO, USTED ASUME EL COSTO DE TODO SERVICIO, REPARACIÓN O 
+CORRECCIÓN.<br><br>
+
+EN NINGÚN CASO, A MENOS QUE LO EXIJA LA LEY APLICABLE O ACORDADO POR ESCRITO 
+LOS TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES ANTE USTED POR DAÑOS, 
+INCLUYENDO CUALQUIER DAÑO GENERAL, ESPECIAL, INCIDENTAL O DAÑOS DERIVADOS DEL 
+USO O IMPOSIBILIDAD DE USAR EL PROGRAMA (INCLUYENDO PERO NO LIMITADO A LA 
+PÉRDIDA Y/O DAÑO DE DATOS, PÉRDIDAS SUFRIDAS POR USTED O TERCEROS O FALLO DEL 
+PROGRAMA PARA OPERAR CON CUALQUIER OTRO PROGRAMA), INCLUSO SI EL TITULAR U OTRA 
+PARTE HAN SIDO INFORMADOS DE LA POSIBILIDAD DE TALES DAÑOS.<br><br>
+
+ESTE SOFTWARE CONTIENE ÍCONOS PROPIEDAD DE \"FREE ICONS WEB\" QUE FUERON 
+CONCEDIDOS BAJO LOS TÉRMINOS DE LA LICENCIA \"CREATIVE COMMONS ATTRIBUTION 3.0 
+LICENCE\".<br><br>
+
+ESTE SOFTWARE UTILIZA LA PALETA DE COLORES PARA MAPAS Y GRÁFICOS 
+\"COLORBREWER 2.0\" CON COPYRIGHT (2002-2009) DE \"Cynthia Brewer, Mark Harrower and The 
+Pennsylvania State University\" QUE FUE CONCEDIDA BAJO LOS TÉRMINOS DE LA 
+LICENCIA \"APACHE LICENCE 2.0\" Y \"APACHE LICENCE 1.1\".<br><br>
+
+ESTE SOFTWARE UTILIZA LAS BIBLIOTECAS \"ActionBarSherlock\" Y \"ViewPageIndicator\" 
+CON COPYRIGHT (2012) DE \"Jake Wharton\" QUE FUERON CONCEDIDAS BAJO LOS TÉRMINOS 
+DE LA LICENCIA \"APACHE LICENCE 2.0\".<br><br>
+
+ESTE SOFTWARE UTILIZA LA BIBLIOTECA \"AChartEngine\" CON COPYRIGHT (2009-2012) 
+DE \"The 4ViewSoft Company\" QUE FUE CONCEDIDA BAJO LOS TÉRMINOS DE LA LICENCIA 
+\"APACHE LICENCE 2.0\".<br><br>
+
+ESTE SOFTWARE UTILIZA LA BIBLIOTECA \"javatuples\" CON COPYRIGHT (2012) DE \"The 
+JAVATUPLES Team\" QUE FUE CONCEDIDA BAJO LOS TÉRMINOS DE LA LICENCIA 
+\"APACHE LICENCE 2.0\".<br><br>
+
+ESTE SOFTWARE UTILIZA LA BIBLIOTECA \"Joda-Time\" CON COPYRIGHT (2002-2013) DE 
+\"Joda.org\" QUE FUE CONCEDIDA BAJO LOS TÉRMINOS DE LA LICENCIA \"APACHE LICENCE 
+2.0\".
+]]>
+    </string>
+    <string name="desconocido">(\?)</string>
+</resources>

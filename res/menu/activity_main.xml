@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_actualizar"
+        android:icon="?attr/icono_menu_actualizar"
+        android:title="@string/menu_actualizar"
+        android:showAsAction="ifRoom|withText" />
+    <!-- 
+    <item
+        android:id="@+id/menu_configuracion"
+        android:orderInCategory="99"
+        android:showAsAction="never"
+        android:title="@string/menu_configuracion" />
+    -->
+    <item
+        android:id="@+id/menu_acerca_de"
+        android:icon="?attr/icono_menu_acerca_de"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_acerca_de" />
+</menu>

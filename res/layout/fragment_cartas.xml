@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent"
+    android:layout_weight="1.0">
+    <LinearLayout style="@style/FilaDeCartas" >
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_sms"
+            android:background="@drawable/cuadro_izquierda"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_mb"
+            android:background="@drawable/cuadro_centro"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_mms"
+            android:background="@drawable/cuadro_derecha"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+    </LinearLayout>
+    <LinearLayout style="@style/FilaDeCartas">
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_llamadas1"
+            android:background="@drawable/cuadro_izquierda"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_llamadas2"
+            android:background="@drawable/cuadro_centro"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_llamadas3"
+            android:background="@drawable/cuadro_derecha"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+    </LinearLayout>
+    <LinearLayout style="@style/FilaDeCartas" >
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_saldo"
+            android:background="@drawable/cuadro_izquierda"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_renta"
+            android:background="@drawable/cuadro_centro"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_vencimiento"
+            android:background="@drawable/cuadro_derecha"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+    </LinearLayout>
+    <LinearLayout style="@style/UltimaFila" >
+        <com.zuliaworks.zusaldo.views.CuadroMovibleLayout android:id="@+id/cuadro_saldo_mensaje"
+            android:background="@drawable/cuadro_centro"
+            style="@style/CategoryButtonStyle"
+            android:onClick="voltearCarta" />
+    </LinearLayout>
+</LinearLayout>

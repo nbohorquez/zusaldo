@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="icono_menu_acerca_de" format="reference" />
+    <attr name="icono_menu_actualizar" format="reference" />
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CategoryButtonContainerStyle" >
+    <TextView android:text="@string/saldo_saldo" 
+        android:drawableTop="@drawable/stan"
+        style="@style/CategoryButtonTextStyle" />
+    <TextView android:id="@+id/saldo_saldo" 
+        android:textIsSelectable="true"
+        style="@style/CategoryButtonCountTextStyle" />
+</LinearLayout>
